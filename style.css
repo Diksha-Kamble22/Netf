@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.todo-card {
+    width: 800px !important;
+    margin: auto;
+}
+
+.todo-info {
+    flex: 6;
+}
+
+.todo-create {
+    float: right;
+    margin-right: 200px;
+}
+
